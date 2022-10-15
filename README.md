@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyatharshini Sundaram
 - 👀 I’m interested in learning new technologies ,hosting technical session
 - 🌱 I’m currently working as SDE 3 & I'm Certified MCT
-- 💞️ I’m looking to collaborate on Azure ,GCP ,AWS
+- 💞️ I love to explore new services and features Cloud (Azure ,GCP ,AWS)
 - 📫 You can reach me @priyasundarsp@outlook.com
 
 <!---
